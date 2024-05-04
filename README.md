@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🌠
 
-<!--
-**Akira-29/Akira-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ana Luiza Godoy
 
-Here are some ideas to get you started:
+- Apenas fazendo meu curso de [Alura](https://www.alura.com.br)
+- Estou aprendendo Programação JavaScript
+- Usando esse app para organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entar em contato comigo 📬
+analu05amor@gmail.com 
+
+
+
+
+![](https://media1.tenor.com/m/uVSdR8F-vU8AAAAd/i-am-in-hell-in-hell.gif)
